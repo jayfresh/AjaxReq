@@ -1,0 +1,3 @@
+A library that enhances jQuery.ajax so you can make cross-domain requests when local and replace with a proxy when remote. Ships with a php proxy.
+
+Requires jQuery.
